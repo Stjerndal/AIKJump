@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 3501570f4fd00fd44837fa073472238d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: buttons_normal
+    21300002: buttons_normal_0
+    21300004: buttons_normal_1
+    21300006: buttons_normal_2
+    21300008: buttons_normal_3
+    21300010: buttons_normal_4
+    21300012: buttons_normal_5
+    21300014: buttons_normal_6
+    21300016: buttons_normal_7
+    21300018: buttons_normal_8
+    21300020: buttons_normal_9
+    21300022: buttons_normal_10
+    21300024: buttons_normal_11
+    21300026: buttons_normal_12
+    21300028: buttons_normal_13
+    21300030: buttons_normal_14
+    21300032: buttons_normal_15
+    21300034: buttons_normal_16
+    21300036: buttons_normal_17
+    21300038: buttons_normal_18
+    21300040: buttons_normal_19
+    21300042: buttons_normal_20
+    21300044: buttons_normal_21
+    21300046: buttons_normal_22
+    21300048: buttons_normal_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: buttons_normal_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1108
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1108
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_2
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1108
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_3
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1108
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_4
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1108
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_5
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1114
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 788
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 788
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 788
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_9
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 788
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_10
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 788
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_11
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 788
+        width: 204
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 467
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 467
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 467
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 467
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_16
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 467
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_17
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 470
+        width: 203
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 156
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_19
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 156
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_20
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 156
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_21
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 156
+        width: 203
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_22
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 156
+        width: 204
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_normal_23
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 62
+        width: 318
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

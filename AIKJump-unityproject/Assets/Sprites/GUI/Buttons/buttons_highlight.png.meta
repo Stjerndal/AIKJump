@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: faa19d60887628d41bb8986d47ccdf9b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: buttons_highlight
+    21300002: buttons_highlight_0
+    21300004: buttons_highlight_1
+    21300006: buttons_highlight_2
+    21300008: buttons_highlight_3
+    21300010: buttons_highlight_4
+    21300012: buttons_highlight_5
+    21300014: buttons_highlight_6
+    21300016: buttons_highlight_7
+    21300018: buttons_highlight_8
+    21300020: buttons_highlight_9
+    21300022: buttons_highlight_10
+    21300024: buttons_highlight_11
+    21300026: buttons_highlight_12
+    21300028: buttons_highlight_13
+    21300030: buttons_highlight_14
+    21300032: buttons_highlight_15
+    21300034: buttons_highlight_16
+    21300036: buttons_highlight_17
+    21300038: buttons_highlight_18
+    21300040: buttons_highlight_19
+    21300042: buttons_highlight_20
+    21300044: buttons_highlight_21
+    21300046: buttons_highlight_22
+    21300048: buttons_highlight_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: buttons_highlight_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1076
+        width: 272
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1076
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1076
+        width: 272
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1076
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_4
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1076
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_5
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1082
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 756
+        width: 272
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 756
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 756
+        width: 272
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 756
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_10
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 756
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_11
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 756
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 436
+        width: 272
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 436
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_14
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 436
+        width: 272
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_15
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 436
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_16
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 436
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_17
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 438
+        width: 271
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 124
+        width: 272
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 124
+        width: 271
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_20
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 124
+        width: 271
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_21
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 124
+        width: 271
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_22
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 124
+        width: 271
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buttons_highlight_23
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 29
+        width: 387
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: e98f1451c21f2db45aec44529a0cfe7a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rattan_atlas01
+    21300002: head
+    21300004: right_arm_upper
+    21300006: left_arm_upper
+    21300008: body
+    21300010: right_arm_lower
+    21300012: left_arm_lower
+    21300014: right_leg_upper
+    21300016: left_leg_upper
+    21300018: right_leg_lower
+    21300020: left_leg_lower
+    21300022: right_foot
+    21300024: left_foot
+    21300026: head
+    21300028: right_arm_upper
+    21300030: left_arm_upper
+    21300032: torso
+    21300034: right_arm_lower
+    21300036: left_arm_lower
+    21300038: right_leg_upper
+    21300040: left_leg_upper
+    21300042: right_leg_lower
+    21300044: left_leg_lower
+    21300046: right_foot
+    21300048: left_foot
+    21300050: shorts_base
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 816
+        width: 331
+        height: 202
+      alignment: 9
+      pivot: {x: .473800302, y: .371206462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_arm_upper
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 891
+        width: 105
+        height: 51
+      alignment: 9
+      pivot: {x: .220900476, y: .485635191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_arm_lower
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 895
+        width: 181
+        height: 77
+      alignment: 9
+      pivot: {x: .899860859, y: .784255803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: torso
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 545
+        width: 179
+        height: 259
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_arm_lower
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 803
+        width: 181
+        height: 81
+      alignment: 9
+      pivot: {x: .896676242, y: .22865352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_arm_upper
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 799
+        width: 121
+        height: 52
+      alignment: 9
+      pivot: {x: .784578204, y: .457733154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg_upper
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 566
+        width: 86
+        height: 156
+      alignment: 9
+      pivot: {x: .183447897, y: .914433777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_leg_upper
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 558
+        width: 95
+        height: 165
+      alignment: 9
+      pivot: {x: .839329123, y: .877419591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_leg_lower
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 481
+        width: 54
+        height: 67
+      alignment: 9
+      pivot: {x: .662807882, y: .762436569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_leg_lower
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 460
+        width: 56
+        height: 83
+      alignment: 9
+      pivot: {x: .268363953, y: .136663601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: right_foot
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 307
+        width: 104
+        height: 140
+      alignment: 9
+      pivot: {x: .882719159, y: .297537893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: left_foot
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 299
+        width: 86
+        height: 141
+      alignment: 9
+      pivot: {x: .891875505, y: .723428309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shorts_base
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 488
+        width: 168
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
