@@ -1,4 +1,4 @@
 AIKJump
 =======
 
-A 2D jumpar game. AIK theme.
+A 2D jumper game. AIK theme.
